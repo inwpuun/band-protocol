@@ -1,0 +1,5 @@
+server_config:
+  port: 8080
+
+server2server:
+  url: https://mock-node-wgqbnxruha-as.a.run.app
